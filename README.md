@@ -7,8 +7,8 @@ https://ibb.co/YXMMy7F
 // getting a contact by id
 
 node index.js -a get -i 05olLMgyVQdWRwgKfg5J6
-https://ibb.co/T89N7MR
 
+https://ibb.co/T89N7MR
 
 // adding a new contact Mango
 
