@@ -1,4 +1,5 @@
 // initial contact list
+
 node index.js -a list
 https://ibb.co/YXMMy7F
 
